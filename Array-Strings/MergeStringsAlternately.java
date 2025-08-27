@@ -1,6 +1,6 @@
 /*
  *  1768. Merge Strings Alternately
- *  https://leetcode.com/problems/merge-strings-alternately/description/
+ *  Link:https://leetcode.com/problems/merge-strings-alternately/description/
     Approach / Idea:
 
     1.Find the lengths of both strings.
