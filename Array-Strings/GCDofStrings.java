@@ -1,6 +1,6 @@
 /*
  *  1071. Greatest Common Divisor of Strings
- * 
+ *  Link: https://leetcode.com/problems/greatest-common-divisor-of-strings?envType=study-plan-v2&envId=leetcode-75
  *  Problem:
  *  Given two strings str1 and str2, return the largest string that can divide both str1 and str2.
  *  If no such string exists, return an empty string "".
