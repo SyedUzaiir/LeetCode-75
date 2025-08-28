@@ -32,7 +32,7 @@ LeetCode-75/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/LeetCode-75.git
+git clone https://github.com/SyedUzaiir/LeetCode-75.git
 ```
 
 2. **Compile & run a solution:**
